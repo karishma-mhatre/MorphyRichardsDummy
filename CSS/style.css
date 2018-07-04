@@ -267,7 +267,9 @@ input[type=text], select, textarea {
     margin-bottom: 16px;
     resize: vertical;
 }
-
+textarea{
+    height: 190px;
+}
 input[type=submit] {
     background-color: #4CAF50;
     color: white;
