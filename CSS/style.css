@@ -302,6 +302,12 @@ input[type=submit]:hover {
     clear: both;
 }
 
+.blog{
+    padding:20px;
+    width: 60%;
+    display: table;
+    margin: 0 auto !important;
+}   
 
 @media screen and (max-width: 600px) {
     .column, input[type=submit] {
@@ -312,12 +318,6 @@ input[type=submit]:hover {
         width: 100%;
     }
 }
-.blog{
-    padding:20px;
-    width: 60%;
-    display: table;
-    margin: 0 auto !important;
-}   
 .aboutMe{
  padding: 20px;
 }
