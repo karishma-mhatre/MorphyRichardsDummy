@@ -11,3 +11,7 @@ Technologies used:
 Instructons to Run the project:
 1. Clone the Repository on local Machine
 2. Open index.html
+
+OR
+Open the below link
+https://karishma-mhatre.github.io/MorphyRichardsDummy/index.html
